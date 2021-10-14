@@ -1,0 +1,13 @@
+@media screen and (min-width: 768px) {
+    .grid-restaurant {
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    }
+    .restaurant {
+        margin: 20px 20px;
+    }
+    .new {
+        margin-top: 30px;
+    }
+}
